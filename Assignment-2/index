@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script src="./assignment2.js"></script>
+    <script>
+      console.log(reverseString("abc"));
+
+      var circleArray = [{radius: 5}, {radius: 9}, {radius: 2}];
+      console.log(circleArray.sort(radiusComparator));
+
+      console.log(lenghtOfArray(circleArray));
+      circleArray[10] = {radius: 1}
+      console.log(lenghtOfArray(circleArray));
+      console.log(circleArray.sort(radiusComparator));
+    </script>
+    <title></title>
+    <meta content="">
+    <style></style>
+  </head>
+  <body></body>
+</html>
