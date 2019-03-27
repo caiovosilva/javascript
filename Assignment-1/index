@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script src="./assignment1.js"></script>
+    <script>
+      console.log(isInteger(1));
+    </script>
+    <title></title>
+    <meta content="">
+    <style></style>
+  </head>
+  <body></body>
+</html>
