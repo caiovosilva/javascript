@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <script src="./hello_world.js"></script>
+    <script>
+      hello();
+    </script>
+    <title></title>
+    <meta content="">
+    <style></style>
+  </head>
+  <body></body>
+</html>
