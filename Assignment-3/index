@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script src="./assignment2.js"></script>
+    <script>
+      var arr = ["a", "bb","ccc","d"];
+      console.log(largestString(arr));
+
+      var arr2 = [1,2,3];
+      console.log(sumOfSquares(arr2));
+
+      console.log(evenNumbers(arr2));
+    </script>
+    <title></title>
+    <meta content="">
+    <style></style>
+  </head>
+  <body></body>
+</html>
